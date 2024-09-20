@@ -131,7 +131,12 @@ This class structure allows for a clear separation of responsibilities:
 
 This architecture provides flexibility and allows for easy expansion or modification of functionality in the future.
 
+## Built with
 
+* [Maven](https://maven.apache.org/) - dependencies
+* [Git](http://git-scm.com/) - Version Control System
+
+  
 ## Author
 
 Nicolas Sebastian Achuri Macias
